@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/cigarette.iml" filepath="$PROJECT_DIR$/.idea/cigarette.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cigarette-bridge/cigarette-bridge.iml" filepath="$PROJECT_DIR$/cigarette-bridge/cigarette-bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cigarette-common/cigarette-common.iml" filepath="$PROJECT_DIR$/cigarette-common/cigarette-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cigarette-core/cigarette-core.iml" filepath="$PROJECT_DIR$/cigarette-core/cigarette-core.iml" />
     </modules>
   </component>
 </project>
