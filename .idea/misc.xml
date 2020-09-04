@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/cigarette-core/pom.xml" />
         <option value="$PROJECT_DIR$/cigarette-common/pom.xml" />
         <option value="$PROJECT_DIR$/cigarette-bridge/pom.xml" />
+        <option value="$PROJECT_DIR$/cigarette-config/pom.xml" />
+        <option value="$PROJECT_DIR$/cigarette-client/pom.xml" />
       </list>
     </option>
   </component>

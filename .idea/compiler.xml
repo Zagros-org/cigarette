@@ -7,14 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cigarette-bridge" />
+        <module name="cigarette-config" />
         <module name="cigarette-common" />
         <module name="cigarette-core" />
+        <module name="cigarette-client" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="cigarette-bridge" target="1.5" />
-      <module name="cigarette-common" target="1.5" />
-      <module name="cigarette-core" target="1.5" />
+      <module name="cigarette-bridge" target="8" />
+      <module name="cigarette-client" target="8" />
+      <module name="cigarette-common" target="8" />
+      <module name="cigarette-config" target="8" />
+      <module name="cigarette-core" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
